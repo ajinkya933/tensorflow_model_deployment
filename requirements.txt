@@ -1,5 +1,5 @@
-tensorflow-gpu>=1.15.2,<2.0
-tensorflow-serving-api-gpu>=1.15.0,<2.0
+tensorflow=1.14
+tensorflow-serving-api=1.14
 scikit-image>=0.15.0
 numpy>=1.16.4
 pandas>=0.24.2
